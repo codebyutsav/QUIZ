@@ -19,4 +19,4 @@ Quizzes help improve memory retention and make learning more engaging! This proj
 2. Make sure Python is installed on your system.
 3. Open a terminal and run:
    ```bash
-   python quiz_game.py
+   python main.py
